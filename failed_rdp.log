@@ -1,0 +1,255 @@
+latitude:47.91542,longitude:-120.60306,destinationhost:samplehost,username:fakeuser,sourcehost:24.16.97.222,state:Washington,country:United States,label:United States - 24.16.97.222,timestamp:2021-10-26 03:28:29
+latitude:-22.90906,longitude:-47.06455,destinationhost:samplehost,username:lnwbaq,sourcehost:20.195.228.49,state:Sao Paulo,country:Brazil,label:Brazil - 20.195.228.49,timestamp:2021-10-26 05:46:20
+latitude:52.37022,longitude:4.89517,destinationhost:samplehost,username:CSNYDER,sourcehost:89.248.165.74,state:North Holland,country:Netherlands,label:Netherlands - 89.248.165.74,timestamp:2021-10-26 06:12:56
+latitude:40.71455,longitude:-74.00714,destinationhost:samplehost,username:ADMINISTRATOR,sourcehost:72.45.247.218,state:New York,country:United States,label:United States - 72.45.247.218,timestamp:2021-10-26 10:44:07
+latitude:33.99762,longitude:-6.84737,destinationhost:samplehost,username:AZUREUSER,sourcehost:102.50.242.216,state:Rabat-Salé-Kénitra,country:Morocco,label:Morocco - 102.50.242.216,timestamp:2021-10-26 11:03:13
+latitude:-5.32558,longitude:100.28595,destinationhost:samplehost,username:Test,sourcehost:42.1.62.34,state:Penang,country:Malaysia,label:Malaysia - 42.1.62.34,timestamp:2021-10-26 11:04:45
+latitude:41.05722,longitude:28.84926,destinationhost:samplehost,username:AZUREUSER,sourcehost:176.235.196.111,state:Istanbul,country:Turkey,label:Turkey - 176.235.196.111,timestamp:2021-10-26 11:50:47
+latitude:55.87925,longitude:37.54691,destinationhost:samplehost,username:Test,sourcehost:87.251.67.98,state:null,country:Russia,label:Russia - 87.251.67.98,timestamp:2021-10-26 12:13:45
+latitude:52.37018,longitude:4.87324,destinationhost:samplehost,username:AZUREUSER,sourcehost:20.86.161.127,state:North Holland,country:Netherlands,label:Netherlands - 20.86.161.127,timestamp:2021-10-26 12:33:46
+latitude:17.49163,longitude:-88.18704,destinationhost:samplehost,username:Test,sourcehost:45.227.254.8,state:null,country:Belize,label:Belize - 45.227.254.8,timestamp:2021-10-26 13:13:25
+latitude:-55.88802,longitude:37.65136,destinationhost:samplehost,username:Test,sourcehost:94.232.47.130,state:Central Federal District,country:Russia,label:Russia - 94.232.47.130,timestamp:2021-10-26 14:25:33
+latitude:42.69771,longitude:23.32187,destinationhost:honeypot-vm,username:z,sourcehost:46.232.153.99,state:Sofia-Capital, country:Bulgaria,label:Bulgaria - 46.232.153.99,timestamp:2024-11-21 21:39:30
+latitude:52.23560,longitude:21.01037,destinationhost:honeypot-vm,username:SQL,sourcehost:194.180.49.123,state:Woj. Mazowieckie, country:Poland,label:Poland - 194.180.49.123,timestamp:2024-11-21 21:37:58
+latitude:42.69771,longitude:23.32187,destinationhost:honeypot-vm,username:tsvetoslavAdminz,sourcehost:46.232.153.99,state:Sofia-Capital, country:Bulgaria,label:Bulgaria - 46.232.153.99,timestamp:2024-11-21 21:34:26
+latitude:37.33865,longitude:-121.88542,destinationhost:honeypot-vm,username:,sourcehost:54.183.97.79,state:California, country:United States,label:United States - 54.183.97.79,timestamp:2024-11-21 21:03:13
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ANTON,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:48
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:CAMERAS,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:20
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ANTONIY,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:19
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LOSABETOS,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:51:14
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LEN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:51:09
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:WAREHOUSE,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:51:08
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:NADIA,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:51:07
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:HK004,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:06
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LIESBETH,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:05
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:INITIALT,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:51:04
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MANTENIMIENTO,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:51:03
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:UNITEXSZX1,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:02
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FATIN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:51:01
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:NASADMIN,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:51:00
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:0301,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:59
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BURAK,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:58
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:APPSERVER,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:57
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:NCS,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:56
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ASUSER,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:55
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:WIN,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:54
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRATEUR,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:53
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EXMERGE,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:52
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:USER6,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:51
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:OSITO,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:50
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:WIT,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:49
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TIMEMACHINE,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:48
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ASTRID,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:47
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BATALHA,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:46
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KEVINHPCHAN,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:45
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:OFICINA,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:44
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EASY_NET,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:43
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DHYOON,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:42
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TEMPADMIN,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:41
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:MARKETING,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:40
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DROMERO,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:39
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRATOR,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:38
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MOLIVEIRA,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:37
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:AAA,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:36
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SQLSERVICE,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:35
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRATOR,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:34
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ASHAR,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:33
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:DDD,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:32
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EXPO2,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:31
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DEBBIE,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:30
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:CAMARAS,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:29
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TEST,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:28
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PRABHAT,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:27
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRATOR,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:26
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EMAD,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:25
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:UTENTE02,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:24
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:VISHNU,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:23
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:THEO,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:22
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:ACESSO,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:21
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ROBERT,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:20
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RAGHU,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:19
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SEGURANCA,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:18
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TEMP-USAGE,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:17
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ZAV,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:16
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMIN,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:15
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:BALCAO4,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:14
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SCAN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:13
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TESTUSER1,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:12
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MCKINNEY,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:11
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FAX,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:10
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MARCIA,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:09
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MERIO,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:08
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RENEE,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:07
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KUSS,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:06
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:ANDRESSA,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:50:05
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TIM,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:04
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SCANNER,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:50:03
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:APUSER,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:50:02
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ASDF,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:50:01
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BENJAMIND,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:50:00
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:JOLANDA,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:59
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:FARZIN,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:58
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:CHANTAL,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:57
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:RASOOLI,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:56
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:STATUS,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:55
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:GEETA,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:54
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:WEBBROKER,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:53
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SCRAPEDEV,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:52
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:YOUBIAN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:51
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SZEFOWA,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:50
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:ATC,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:49
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EDSON,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:48
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TEMPLATES,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:47
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:UTENTE04,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:46
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ELLEN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:45
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:XEROX,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:44
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:CCHOWDHURY,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:43
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SPECTRUM,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:42
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:LIZ,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:41
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADRIENN,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:40
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MICROSSVC,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:39
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PROVEEDORES,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:38
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:UCINN,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:37
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DAVID,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:36
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:CVM,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:35
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LAPAZ,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:34
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DOORS,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:33
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ACCOUNTS,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:32
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MGV,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:31
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KIETLH,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:30
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:DELTEKVISION,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:29
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FINANCE,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:28
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RSFMULSALE,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:27
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PRODUZIONE1,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:26
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SUPPORT,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:25
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:WORKSHOP,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:24
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:BACKUP,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:23
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LUCAS,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:22
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DEBORA,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:21
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:8888,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:20
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PC30,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:19
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:SUPPLY,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:18
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SCAN,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:17
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:VK,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:16
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FLORIS,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:15
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:REMOTO1,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:14
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:TRAINING3,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:13
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:REZEPTION,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:12
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:STANIA,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:11
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:T123,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:10
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TMOORE,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:49:09
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRADOR,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:08
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RIDHO,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:07
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:OCE,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:06
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PC14,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:49:05
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:WIN7,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:49:04
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PORTLAND,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:03
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:CAIO.ROBERTO,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:49:02
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DELHI,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:01
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MARC,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:49:00
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DATAFEED,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:59
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RADIX18,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:58
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PRASAD,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:57
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EASICOM,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:56
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:IMELDA,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:55
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LIESL,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:54
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BETINA,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:53
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:EXCHADMIN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:52
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RECEPTIONGAUCHE,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:51
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MARINA,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:50
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:JESSICA,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:49
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MARINA,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:48
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:NATTHAPOHN,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:47
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TEMP,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:46
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KUJAWY,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:45
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BILL,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:44
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SCANXEROX,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:43
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:LORENA,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:48:42
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SCANNER,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:41
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TESTUSER,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:48:40
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TEMP2,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:48:39
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BILLING,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:38
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BILLING,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:37
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:NICK,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:36
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:LJH,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:35
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BKPCM,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:34
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BERGMANNLOGIN,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:33
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMIN123,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:32
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PROJECTEN,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:31
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:OZGUR,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:30
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:COMPRAS,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:29
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:OFFICE1,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:48:28
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DEMO,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:27
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FTP,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:26
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:FISCAL,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:48:25
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:CONSINCO3,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:24
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:AP,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:23
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KHANH,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:22
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DENEME,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:21
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:AMARILDO,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:20
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SAMIR,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:19
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RECEPTIONIST,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:18
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ZAHI,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:17
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DRAGEC,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:16
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SENOL,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:15
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FM,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:14
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:VERONICA CANNON,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:13
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ROOT,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:12
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KBPCX,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:11
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:USER,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:10
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:UPGRADE,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:09
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MANAGER,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:48:08
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:WAREHOUSE,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:48:07
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SYLVIA,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:06
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:2000,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:05
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MITARBEITER3,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:48:04
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BGS,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:03
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KAMAN,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:48:02
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADCINILORATOR,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:01
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:CHL,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:48:00
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRATOR,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:47:59
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RUCKUS,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:58
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FS1ADMIN,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:57
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:INFO,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:47:56
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ALMACEN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:55
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:USER,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:54
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADMINISTRADOR,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:47:53
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:WW7,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:52
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ANDREWTAN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:51
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:VAGGELIS,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:50
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ROBIN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:49
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BROOK,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:48
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:U020,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:47:47
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ST,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:46
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DEFAULTUSER,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:45
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:OKI,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:44
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FAMILLE,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:43
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:TALLER1,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:42
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:VENDAS2,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:47:41
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:KAMERA,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:40
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DOIT,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:47:39
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:USER18,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:38
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SHAD,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:47:37
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:1,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:36
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:JAIRO,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:35
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:EXTRA,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:47:34
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BANKO,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:33
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PROFESOR,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:47:32
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:ADM,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:47:31
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:HUSSAIN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:30
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:FIFI,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:47:29
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:BATUHAN12,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:28
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:USER,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:47:27
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SECURITY,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:26
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RADWA,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:25
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:PJOHNSON,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:24
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:ADEL,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:23
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RITA,sourcehost:31.43.185.41,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.41,timestamp:2024-11-21 17:47:22
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:VMADMIN,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:21
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:SYMANTEC,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:47:20
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RH01,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:19
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:LUCAS,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:47:18
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:DASHADIAO,sourcehost:31.43.185.42,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.42,timestamp:2024-11-21 17:47:17
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:RFPRD,sourcehost:31.43.185.39,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.39,timestamp:2024-11-21 17:47:16
+latitude:50.43830,longitude:30.45675,destinationhost:honeypot-vm,username:VALERIA,sourcehost:45.143.201.131,state:Kyiv, country:Ukraine,label:Ukraine - 45.143.201.131,timestamp:2024-11-21 17:47:15
+latitude:50.45056,longitude:30.52428,destinationhost:honeypot-vm,username:MLV,sourcehost:31.43.185.40,state:Kyiv City, country:Ukraine,label:Ukraine - 31.43.185.40,timestamp:2024-11-21 17:47:14
